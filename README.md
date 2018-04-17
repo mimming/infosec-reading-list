@@ -6,4 +6,7 @@ I aim to make this a list of the 200 or so most useful resources I read as I ven
 
 
 ## Offensive / Red Teaming
+### penetration testing
 - [Under the Hoodie](https://www.rapid7.com/info/under-the-hoodie/) - (long read) A report from over 100 pen tests by Rapid7
+
+### breach and attack simulations
